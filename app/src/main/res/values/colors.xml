@@ -1,0 +1,6 @@
+<resources>
+    <color name="primary">#1E88E5</color>
+    <color name="primaryDark">#1565C0</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="divider">#DDDDDD</color>
+</resources>

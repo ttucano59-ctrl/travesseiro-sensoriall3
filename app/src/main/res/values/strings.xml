@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travesseiro Sensorial</string>
+    <string name="btn_connect_device">Conectar Dispositivo</string>
+    <string name="btn_activate">Ativar Travesseiro</string>
+    <string name="btn_deactivate">Desativar Travesseiro</string>
+    <string name="btn_settings">Configurações</string>
+    <string name="label_bpm">BPM Atual</string>
+    <string name="label_status">Status do Travesseiro</string>
+    <string name="label_battery">Nível de Bateria</string>
+    <string name="status_disconnected">Desconectado</string>
+</resources>
